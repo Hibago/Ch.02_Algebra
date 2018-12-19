@@ -7,7 +7,7 @@ but I will definitely not ask another person except the instructor. Signed: Varu
 
 
 
-
+WHY DO THEY GIVE THESE ANSWERS
 2.) What do the following lines of code output? ALSO: Why do they give a different answer?
 2 / 3 = 0.66666666666
 2 // 3 = 0
@@ -41,7 +41,7 @@ The best one to use is area_of_rectangle
 
 
 
-
+INCORRECT. There are several that are wrong, Test them out
 5.) Which of these variables names are NOT allowed in Python? 
 Test them if you aren't sure.
 
@@ -72,7 +72,7 @@ total% X
 
 
 
-
+INCORRECT!
 6.) Predict the output of (a) and its type and then test it?
 a =2
 a*=10 should equal 20
