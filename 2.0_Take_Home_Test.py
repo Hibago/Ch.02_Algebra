@@ -9,10 +9,10 @@ but I will definitely not ask another person except the instructor. Signed: Varu
 
 WHY DO THEY GIVE THESE ANSWERS
 2.) What do the following lines of code output? ALSO: Why do they give a different answer?
-2 / 3 = 0.66666666666
-2 // 3 = 0
-3/2 = 1.5
-3//2 = 1
+2 / 3 = 0.66666666666, the function is to divide
+2 // 3 = 0, // is the floor function, so it shows the closest integer value less than or equal to 2/3
+3/2 = 1.5, the function is to divide
+3//2 = 1, the floor function shows the closets integer value less than or equal to 2/3
 
 
 
@@ -48,11 +48,11 @@ Test them if you aren't sure.
 apple
 Apple
 APPLE
-Apple2 X
+Apple2
 1Apple X
 account number X
 account_number
-account.number
+account.number X
 accountNumber X
 account# X
 pi
@@ -60,7 +60,7 @@ PI
 fred
 Fred
 GreatBigVariable
-greatBigVariable X
+greatBigVariable
 great_big_variable
 great.big.variable X
 2x X
@@ -76,10 +76,10 @@ INCORRECT!
 6.) Predict the output of (a) and its type and then test it?
 a =2
 a*=10 should equal 20
-a/=2 should equal 1
-a+=12 should equal 14
-a-=7 should equal -5
-a should equal 2
+a/=2 should equal 10, the real value is 10.0
+a+=12 should equal 22, the real value is 22.0
+a-=7 should equal 15, the real value is 15.0
+a should equal 15, it equals 15.0
 type(a) says <class 'int'>
 
 
